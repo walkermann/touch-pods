@@ -6,6 +6,11 @@
 
 本项目旨在为Android用户提供一个简单、稳定的AirPods电量监测工具，支持实时显示AirPods左右耳和充电盒的电量状态。
 
+[![GitHub stars](https://img.shields.io/github/stars/walkermann/touch-pods?style=social)](https://github.com/walkermann/touch-pods/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/walkermann/touch-pods?style=social)](https://github.com/walkermann/touch-pods/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/walkermann/touch-pods)](https://github.com/walkermann/touch-pods/issues)
+[![GitHub license](https://img.shields.io/github/license/walkermann/touch-pods)](https://github.com/walkermann/touch-pods/blob/main/LICENSE)
+
 ## 技术栈
 
 - 开发语言：Kotlin
@@ -104,7 +109,7 @@ app/
 
 1. 克隆项目
    ```bash
-   git clone [项目地址]
+   git clone https://github.com/walkermann/touch-pods.git
    ```
 
 2. 打开项目
@@ -160,8 +165,9 @@ app/
 
 ## 许可证
 
-[待定]
+本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
 
 ## 联系方式
 
-[待补充] 
+- GitHub: [@walkermann](https://github.com/walkermann)
+- 项目地址: [https://github.com/walkermann/touch-pods](https://github.com/walkermann/touch-pods) 
